@@ -6,7 +6,7 @@ const IMC = peso / (altura * altura);
 
 if(!(IMC >= 30 || IMC <= 29.9)){
     //se sim deixar entrar
-    console.log('Carlos você está acima do peso!')
+    console.log('Carlos você está acima do peso!!')
        
     }
      //se não bloquear a entrada
@@ -14,3 +14,5 @@ if(!(IMC >= 30 || IMC <= 29.9)){
     
         console.log('Carlos você não está acima do peso!!!')
     }
+
+
