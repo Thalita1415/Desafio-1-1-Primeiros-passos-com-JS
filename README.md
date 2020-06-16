@@ -3,28 +3,27 @@
 <p align="center">
     <img src="https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f676f6c64656e2d77696e642f626f6f7463616d702d6c61756e6368626173652f6c6f676f2e706e67.png" alt="Image" width="500" height="290" />
 </p>
-<p align="center">
     
 ### Desafio-1-1-Primeiros-passos-com-JS 
 
-</p>
 
 
 ## :rocket: Sobre o desafio
 
 Desafios para fortalecer alguns conceitos, entre eles:
-##### 1. Variáveis;
-##### 2. Condicionais;
-##### 3. Operadores;
+##### (-) Variáveis;
+##### *Condicionais;
+##### *Operadores;
 
 #### Cálculo de IMC
 Crie um programa para calcular o IMC e nível de obesidade de uma pessoa.
 
 Comece criando constantes para armazenar o nome, peso, altura e sexo de uma pessoa, por exemplo:
-
+```
 const nome = "Carlos";</p>
 const peso = 84; </p>
 const altura = 1.88; </p>
+```
 
 A partir desses dados armazene em uma constante chamada imc o cálculo do índice de massa corporal definido pela fórmula abaixo:
 
@@ -42,10 +41,12 @@ Obs.: *Esse cálculo é fictício, dentro da aposentadoria existem muitos outros
 
 Comece criando constantes para armazenar nome, sexo, idade e contribuicao(em anos), por exemplo:
 
-const nome = "Silvana"; </p>
-const sexo = "F"; </p>
-const idade = 48; </p>
-const contribuicao = 23; </p>
+```
+const nome = "Silvana";
+const sexo = "F"; 
+const idade = 48; 
+const contribuicao = 23; 
+```
 
 Baseado nos valores acima utilize as fórmulas a seguir para calcular se a pessoa está apta ou não para se aposentar e no fim imprima uma mensagem em tela.
 
