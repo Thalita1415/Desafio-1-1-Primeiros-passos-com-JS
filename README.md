@@ -6,9 +6,12 @@
     
 <h2 align="center"> Desafio-1-1-Primeiros-passos-com-JS 
 </h2>
-<p align="center">
-[Sobre](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#rocket-sobre-o-desafio) |   [Cálculo do IMC](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#muscle-c%C3%A1lculo-de-imc) |   [Cálculo de aposentadoria](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#older_woman-c%C3%A1lculo-de-aposentadoria)
-</p>
+
+## Indice
+- [Sobre](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#rocket-sobre-o-desafio)
+- [Cálculo do IMC](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#muscle-c%C3%A1lculo-de-imc) 
+- [Cálculo de aposentadoria](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#older_woman-c%C3%A1lculo-de-aposentadoria)
+
 
 
 
@@ -16,9 +19,9 @@
 ## :rocket: Sobre o desafio
 
 Desafios para fortalecer alguns conceitos, entre eles:
--  Variáveis;
--  Condicionais;
--  Operadores;
+- **Variáveis**;
+-  **Condicionais**;
+-  **Operadores**;
 
 #### :muscle: Cálculo de IMC
 Crie um programa para calcular o IMC e nível de obesidade de uma pessoa.
@@ -58,6 +61,6 @@ const contribuicao = 23;
 
 Baseado nos valores acima utilize as fórmulas a seguir para calcular se a pessoa está apta ou não para se aposentar e no fim imprima uma mensagem em tela.
 
-- O tempo de contribuição mínimo para homens é de 35 anos e, para mulheres, 30 anos;
-- Utilizando a regra 85-95, a soma da idade com o tempo de contribuição do homem precisa ser de no mínimo 95 anos, enquanto a mulher precisa ter no mínimo 85 anos na soma;
+- O tempo de contribuição mínimo para **homens** é de **35 anos** e, para **mulheres**, **30 anos**;
+- Utilizando a regra 85-95, a soma da idade com o tempo de contribuição do **homem** precisa ser de no mínimo 95 anos, enquanto a **mulher** precisa ter no mínimo 85 anos na soma;
 - ```SE``` a pessoa NÃO estiver aposentada: ```Silvana, você ainda não pode se aposentar!```;
