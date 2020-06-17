@@ -6,10 +6,11 @@
     
 <h2 align="center"> Desafio-1-1-Primeiros-passos-com-JS 
 </h2>
+<p align="center">
+[Sobre](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#rocket-sobre-o-desafio) |   [Cálculo do IMC](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#muscle-c%C3%A1lculo-de-imc) |   [Cálculo de aposentadoria](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#older_woman-c%C3%A1lculo-de-aposentadoria)
+</p>
 
-- [Sobre](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#rocket-sobre-o-desafio)
-- [Cálculo do IMC](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#muscle-c%C3%A1lculo-de-imc)
-- [Cálculo de aposentadoria](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#older_woman-c%C3%A1lculo-de-aposentadoria)
+
 
 
 ## :rocket: Sobre o desafio
@@ -23,7 +24,7 @@ Desafios para fortalecer alguns conceitos, entre eles:
 Crie um programa para calcular o IMC e nível de obesidade de uma pessoa.
 
 Comece criando constantes para armazenar o ```nome```, ```peso```, ```altura``` e ```sexo``` de uma pessoa, por exemplo:
-```
+```javascript
 const nome = "Carlos";
 const peso = 84; 
 const altura = 1.88; 
@@ -48,7 +49,7 @@ Obs.: *Esse cálculo é fictício, dentro da aposentadoria existem muitos outros
 
 Comece criando constantes para armazenar nome, sexo, idade e contribuicao(em anos), por exemplo:
 
-```
+```javascript
 const nome = "Silvana";
 const sexo = "F"; 
 const idade = 48; 
