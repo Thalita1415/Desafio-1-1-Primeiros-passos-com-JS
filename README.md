@@ -7,8 +7,9 @@
 <h2 align="center"> Desafio-1-1-Primeiros-passos-com-JS 
 </h2>
 
-- [Sobre](#-Sobre-o-desafio)
+> - [Sobre](#-Sobre-o-desafio)
 - [Cálculo do IMC](#-Cálculo-do-IMC)
+- [Cálculo de aposentadoria](#-Cálculo-de-aposentadoria)
 
 
 ## :rocket: Sobre o desafio
