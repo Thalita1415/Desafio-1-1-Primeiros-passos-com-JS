@@ -7,7 +7,7 @@
 <h2 align="center"> Desafio-1-1-Primeiros-passos-com-JS 
 </h2>
 
-- [Sobre](#-Sobre-o-desafio)
+- [Sobre](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#rocket-sobre-o-desafio)
 - [Cálculo do IMC](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#muscle-c%C3%A1lculo-de-imc)
 - [Cálculo de aposentadoria](#-Cálculo-de-aposentadoria)
 
