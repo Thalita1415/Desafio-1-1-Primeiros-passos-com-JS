@@ -53,10 +53,10 @@ Obs.: *Esse cálculo é fictício, dentro da aposentadoria existem muitos outros
 Comece criando constantes para armazenar ```nome```, ```sexo```, ```idade``` e ```contribuicao```(em anos), por exemplo:
 
 ```javascript
-const nome = "Silvana";
+const nome = "Thalita";
 const sexo = "F"; 
 const idade = 48; 
-const contribuicao = 23; 
+const contribuicao = 38; 
 ````
 
 Baseado nos valores acima utilize as fórmulas a seguir para calcular se a pessoa está apta ou não para se aposentar e no fim imprima uma mensagem em tela.
@@ -67,5 +67,5 @@ Baseado nos valores acima utilize as fórmulas a seguir para calcular se a pesso
 Com base nas regras acima imprima na tela as mensagens:
 </p>
 
-- ```SE``` a pessoa estiver aposentada: ```Silvana, você pode se aposentar!```;
-- ```SE``` a pessoa NÃO estiver aposentada: ```Silvana, você ainda não pode se aposentar!```;
+- ```SE``` a pessoa estiver aposentada: ```Thalita, você pode se aposentar!```;
+- ```SE``` a pessoa NÃO estiver aposentada: ```Thalita, você ainda não pode se aposentar!```;
