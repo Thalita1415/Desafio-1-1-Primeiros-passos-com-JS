@@ -9,7 +9,7 @@
 
 - [Sobre](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#rocket-sobre-o-desafio)
 - [Cálculo do IMC](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#muscle-c%C3%A1lculo-de-imc)
-- [Cálculo de aposentadoria](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#rocket-sobre-o-desafio)
+- [Cálculo de aposentadoria](https://github.com/Thalita1415/Desafio-1-1-Primeiros-passos-com-JS/blob/master/README.md#older_woman-c%C3%A1lculo-de-aposentadoria)
 
 
 ## :rocket: Sobre o desafio
